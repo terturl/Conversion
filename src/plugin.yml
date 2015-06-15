@@ -1,0 +1,7 @@
+main: me.terturl.Conversion.Conversion
+name: Conversion
+author: terturl
+version: 1.0
+
+commands:
+  con:
